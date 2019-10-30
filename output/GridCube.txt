@@ -1,0 +1,691 @@
+Query : curve7401
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve1565
+True Nearest neighbor : curve7398
+distanceFound : 4.5379
+distanceTrue : 0.120662
+-----------------------------------------
+Query : curve7402
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve966
+True Nearest neighbor : curve966
+distanceFound : 5e-05
+distanceTrue : 5e-05
+-----------------------------------------
+Query : curve7403
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve5730
+True Nearest neighbor : curve7398
+distanceFound : 3.79214
+distanceTrue : 0.114633
+-----------------------------------------
+Query : curve7404
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve598
+True Nearest neighbor : curve7398
+distanceFound : 9.53948
+distanceTrue : 0.22985
+-----------------------------------------
+Query : curve7405
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve5193
+True Nearest neighbor : curve7397
+distanceFound : 4.24802
+distanceTrue : 0.160084
+-----------------------------------------
+Query : curve7406
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve5581
+True Nearest neighbor : curve7398
+distanceFound : 6.19184
+distanceTrue : 0.204944
+-----------------------------------------
+Query : curve7407
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve4015
+True Nearest neighbor : curve4015
+distanceFound : 0.000111803
+distanceTrue : 0.000111803
+-----------------------------------------
+Query : curve7408
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve5867
+True Nearest neighbor : curve7398
+distanceFound : 5.37951
+distanceTrue : 0.138686
+-----------------------------------------
+Query : curve7409
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve4020
+True Nearest neighbor : curve7398
+distanceFound : 1.25125
+distanceTrue : 0.155314
+-----------------------------------------
+Query : curve7410
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve1502
+True Nearest neighbor : curve5618
+distanceFound : 2.09995
+distanceTrue : 1.10999
+-----------------------------------------
+Query : curve7411
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve2545
+True Nearest neighbor : curve2545
+distanceFound : 0.00018
+distanceTrue : 0.00018
+-----------------------------------------
+Query : curve7412
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve104
+True Nearest neighbor : curve7393
+distanceFound : 4.43709
+distanceTrue : 0.170772
+-----------------------------------------
+Query : curve7413
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve1269
+True Nearest neighbor : curve1706
+distanceFound : 2.81584
+distanceTrue : 1.61847
+-----------------------------------------
+Query : curve7414
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve6732
+True Nearest neighbor : curve6156
+distanceFound : 4.0813
+distanceTrue : 0.717941
+-----------------------------------------
+Query : curve7415
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve1511
+True Nearest neighbor : curve5227
+distanceFound : 3.77406
+distanceTrue : 1.18791
+-----------------------------------------
+Query : curve7416
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve121
+True Nearest neighbor : curve2766
+distanceFound : 0.040542
+distanceTrue : 0.0135078
+-----------------------------------------
+Query : curve7417
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve6442
+True Nearest neighbor : curve4847
+distanceFound : 7.94099
+distanceTrue : 1.2381
+-----------------------------------------
+Query : curve7418
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve2770
+True Nearest neighbor : curve2770
+distanceFound : 0
+distanceTrue : 0
+-----------------------------------------
+Query : curve7419
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve4758
+True Nearest neighbor : curve5227
+distanceFound : 5.51983
+distanceTrue : 1.72631
+-----------------------------------------
+Query : curve7420
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve4863
+True Nearest neighbor : curve4863
+distanceFound : 0.000624403
+distanceTrue : 0.000624403
+-----------------------------------------
+Query : curve7421
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve6036
+True Nearest neighbor : curve5227
+distanceFound : 8.63807
+distanceTrue : 1.69238
+-----------------------------------------
+Query : curve7422
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve3738
+True Nearest neighbor : curve5227
+distanceFound : 6.80076
+distanceTrue : 1.56723
+-----------------------------------------
+Query : curve7423
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve6193
+True Nearest neighbor : curve5227
+distanceFound : 4.60001
+distanceTrue : 1.26886
+-----------------------------------------
+Query : curve7424
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve3867
+True Nearest neighbor : curve6873
+distanceFound : 0.39803
+distanceTrue : 0.0156884
+-----------------------------------------
+Query : curve7425
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve6442
+True Nearest neighbor : curve5227
+distanceFound : 8.32128
+distanceTrue : 1.52664
+-----------------------------------------
+Query : curve7426
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve3335
+True Nearest neighbor : curve5227
+distanceFound : 7.17178
+distanceTrue : 1.94125
+-----------------------------------------
+Query : curve7427
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve3337
+True Nearest neighbor : curve5227
+distanceFound : 8.48035
+distanceTrue : 1.76079
+-----------------------------------------
+Query : curve7428
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve6625
+True Nearest neighbor : curve5227
+distanceFound : 4.85959
+distanceTrue : 1.52504
+-----------------------------------------
+Query : curve7429
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve3726
+True Nearest neighbor : curve1717
+distanceFound : 3.27314
+distanceTrue : 2.30047
+-----------------------------------------
+Query : curve7430
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve3717
+True Nearest neighbor : curve3730
+distanceFound : 1.84141
+distanceTrue : 1.69581
+-----------------------------------------
+Query : curve7431
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve1923
+True Nearest neighbor : curve3731
+distanceFound : 3.98414
+distanceTrue : 1.55592
+-----------------------------------------
+Query : curve7432
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve6005
+True Nearest neighbor : curve3721
+distanceFound : 6.77293
+distanceTrue : 1.65766
+-----------------------------------------
+Query : curve7433
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve5336
+True Nearest neighbor : curve1717
+distanceFound : 4.61168
+distanceTrue : 1.90402
+-----------------------------------------
+Query : curve7434
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve2601
+True Nearest neighbor : curve1717
+distanceFound : 3.23958
+distanceTrue : 1.67589
+-----------------------------------------
+Query : curve7435
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve4994
+True Nearest neighbor : curve3723
+distanceFound : 0.0461788
+distanceTrue : 0.0411006
+-----------------------------------------
+Query : curve7436
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve4806
+True Nearest neighbor : curve4806
+distanceFound : 0.0079432
+distanceTrue : 0.0079432
+-----------------------------------------
+Query : curve7437
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve3261
+True Nearest neighbor : curve3730
+distanceFound : 5.267
+distanceTrue : 2.26066
+-----------------------------------------
+Query : curve7438
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve4970
+True Nearest neighbor : curve4970
+distanceFound : 0.000308058
+distanceTrue : 0.000308058
+-----------------------------------------
+Query : curve7439
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve3728
+True Nearest neighbor : curve3741
+distanceFound : 2.13448
+distanceTrue : 1.82119
+-----------------------------------------
+Query : curve7440
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve6871
+True Nearest neighbor : curve6871
+distanceFound : 1e-05
+distanceTrue : 1e-05
+-----------------------------------------
+Query : curve7441
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve1742
+True Nearest neighbor : curve1894
+distanceFound : 5.39142
+distanceTrue : 2.35413
+-----------------------------------------
+Query : curve7442
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve5352
+True Nearest neighbor : curve3730
+distanceFound : 4.7976
+distanceTrue : 2.05466
+-----------------------------------------
+Query : curve7443
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve2884
+True Nearest neighbor : curve353
+distanceFound : 0.0117249
+distanceTrue : 0.00805658
+-----------------------------------------
+Query : curve7444
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve1310
+True Nearest neighbor : curve1310
+distanceFound : 0.000223607
+distanceTrue : 0.000223607
+-----------------------------------------
+Query : curve7445
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve942
+True Nearest neighbor : curve3731
+distanceFound : 2.76305
+distanceTrue : 0.987684
+-----------------------------------------
+Query : curve7446
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve4902
+True Nearest neighbor : curve2912
+distanceFound : 2e-05
+distanceTrue : 2e-05
+-----------------------------------------
+Query : curve7447
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve1345
+True Nearest neighbor : curve1345
+distanceFound : 0.00348914
+distanceTrue : 0.00348914
+-----------------------------------------
+Query : curve7448
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve281
+True Nearest neighbor : curve281
+distanceFound : 0.000948683
+distanceTrue : 0.000948683
+-----------------------------------------
+Query : curve7449
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve149
+True Nearest neighbor : curve1894
+distanceFound : 7.40098
+distanceTrue : 2.56809
+-----------------------------------------
+Query : curve7450
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve4973
+True Nearest neighbor : curve4973
+distanceFound : 2e-05
+distanceTrue : 2e-05
+-----------------------------------------
+Query : curve7451
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve5277
+True Nearest neighbor : curve1894
+distanceFound : 5.96344
+distanceTrue : 2.18242
+-----------------------------------------
+Query : curve7452
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve1923
+True Nearest neighbor : curve3730
+distanceFound : 4.08583
+distanceTrue : 1.75359
+-----------------------------------------
+Query : curve7453
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve4322
+True Nearest neighbor : curve1894
+distanceFound : 7.41396
+distanceTrue : 2.76439
+-----------------------------------------
+Query : curve7454
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve4954
+True Nearest neighbor : curve4954
+distanceFound : 0.000107703
+distanceTrue : 0.000107703
+-----------------------------------------
+Query : curve7455
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve1623
+True Nearest neighbor : curve2902
+distanceFound : 6.06345
+distanceTrue : 1.50616
+-----------------------------------------
+Query : curve7456
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve3370
+True Nearest neighbor : curve3730
+distanceFound : 6.03589
+distanceTrue : 2.41451
+-----------------------------------------
+Query : curve7457
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve5004
+True Nearest neighbor : curve5004
+distanceFound : 0.000156205
+distanceTrue : 0.000156205
+-----------------------------------------
+Query : curve7458
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve1885
+True Nearest neighbor : curve3730
+distanceFound : 3.49539
+distanceTrue : 2.35463
+-----------------------------------------
+Query : curve7459
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve4902
+True Nearest neighbor : curve4902
+distanceFound : 1e-05
+distanceTrue : 1e-05
+-----------------------------------------
+Query : curve7460
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve5766
+True Nearest neighbor : curve1717
+distanceFound : 6.14553
+distanceTrue : 1.77789
+-----------------------------------------
+Query : curve7461
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve4806
+True Nearest neighbor : curve4806
+distanceFound : 0.0112136
+distanceTrue : 0.0112136
+-----------------------------------------
+Query : curve7462
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve6442
+True Nearest neighbor : curve1741
+distanceFound : 1.70792
+distanceTrue : 0.17668
+-----------------------------------------
+Query : curve7463
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve2377
+True Nearest neighbor : curve3742
+distanceFound : 5.81914
+distanceTrue : 0.77132
+-----------------------------------------
+Query : curve7464
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve4997
+True Nearest neighbor : curve2866
+distanceFound : 0.000580555
+distanceTrue : 0.000513275
+-----------------------------------------
+Query : curve7465
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve4918
+True Nearest neighbor : curve4918
+distanceFound : 0.0004272
+distanceTrue : 0.0004272
+-----------------------------------------
+Query : curve7466
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve2387
+True Nearest neighbor : curve3732
+distanceFound : 6.14025
+distanceTrue : 2.54685
+-----------------------------------------
+Query : curve7467
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve4970
+True Nearest neighbor : curve4970
+distanceFound : 0.00010198
+distanceTrue : 0.00010198
+-----------------------------------------
+Query : curve7468
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve4914
+True Nearest neighbor : curve4914
+distanceFound : 0
+distanceTrue : 0
+-----------------------------------------
+Query : curve7469
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve7249
+True Nearest neighbor : curve1717
+distanceFound : 3.6687
+distanceTrue : 2.01215
+-----------------------------------------
+Query : curve7470
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve7394
+True Nearest neighbor : curve4821
+distanceFound : 0.0129263
+distanceTrue : 0.00387451
+-----------------------------------------
+Query : curve7471
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve349
+True Nearest neighbor : curve3730
+distanceFound : 7.45094
+distanceTrue : 2.2846
+-----------------------------------------
+Query : curve7472
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve4986
+True Nearest neighbor : curve4986
+distanceFound : 1e-05
+distanceTrue : 1e-05
+-----------------------------------------
+Query : curve7473
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve4498
+True Nearest neighbor : curve1894
+distanceFound : 5.4923
+distanceTrue : 2.73147
+-----------------------------------------
+Query : curve7474
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve6865
+True Nearest neighbor : curve6865
+distanceFound : 0.0001
+distanceTrue : 0.0001
+-----------------------------------------
+Query : curve7475
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve152
+True Nearest neighbor : curve1894
+distanceFound : 6.33203
+distanceTrue : 2.50962
+-----------------------------------------
+Query : curve7476
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve6865
+True Nearest neighbor : curve6865
+distanceFound : 5e-05
+distanceTrue : 5e-05
+-----------------------------------------
+Query : curve7477
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve3740
+True Nearest neighbor : curve3730
+distanceFound : 1.87036
+distanceTrue : 1.84999
+-----------------------------------------
+Query : curve7478
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve3923
+True Nearest neighbor : curve473
+distanceFound : 0.00233
+distanceTrue : 0.00225594
+-----------------------------------------
+Query : curve7479
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve2084
+True Nearest neighbor : curve2084
+distanceFound : 0.00161576
+distanceTrue : 0.00161576
+-----------------------------------------
+Query : curve7480
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve2129
+True Nearest neighbor : curve5783
+distanceFound : 3.6998
+distanceTrue : 0.684096
+-----------------------------------------
+Query : curve7481
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve3559
+True Nearest neighbor : curve5764
+distanceFound : 10.739
+distanceTrue : 0.69319
+-----------------------------------------
+Query : curve7482
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve2088
+True Nearest neighbor : curve2088
+distanceFound : 0.0277422
+distanceTrue : 0.0277422
+-----------------------------------------
+Query : curve7483
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve2107
+True Nearest neighbor : curve5760
+distanceFound : 4.24313
+distanceTrue : 0.474025
+-----------------------------------------
+Query : curve7484
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve2123
+True Nearest neighbor : curve5764
+distanceFound : 4.0243
+distanceTrue : 0.379709
+-----------------------------------------
+Query : curve7485
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve3593
+True Nearest neighbor : curve5766
+distanceFound : 9.47979
+distanceTrue : 3.34376
+-----------------------------------------
+Query : curve7486
+Method : Grid
+HashFunction : Hypercube
+Found Nearest neighbor : curve3183
+True Nearest neighbor : curve5764
+distanceFound : 11.4775
+distanceTrue : 0.386047
+-----------------------------------------
+Average time : 0.0795354 seconds per query
+Brute force average time : 4.23582 seconds per query
+MaxAf : 41.5031

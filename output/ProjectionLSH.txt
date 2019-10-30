@@ -1,0 +1,507 @@
+Query : curve1
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve2927
+distanceFound : NotFound
+distanceTrue : 0.0084457
+-----------------------------------------
+Query : curve6
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve4815
+distanceFound : NotFound
+distanceTrue : 0.0636175
+-----------------------------------------
+Query : curve8
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : curve1541
+True Nearest neighbor : curve1547
+distanceFound : 0.000100499
+distanceTrue : 2e-05
+-----------------------------------------
+Query : curve12
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve4815
+distanceFound : NotFound
+distanceTrue : 0.101538
+-----------------------------------------
+Query : curve15
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : curve2235
+True Nearest neighbor : curve2235
+distanceFound : 0
+distanceTrue : 0
+-----------------------------------------
+Query : curve18
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : curve2034
+True Nearest neighbor : curve2034
+distanceFound : 0.00632535
+distanceTrue : 0.00632535
+-----------------------------------------
+Query : curve21
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve3417
+distanceFound : NotFound
+distanceTrue : 0.0001
+-----------------------------------------
+Query : curve32
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve3440
+distanceFound : NotFound
+distanceTrue : 0
+-----------------------------------------
+Query : curve33
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : curve2212
+True Nearest neighbor : curve3440
+distanceFound : 0.00154565
+distanceTrue : 0.00138541
+-----------------------------------------
+Query : curve35
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve2026
+distanceFound : NotFound
+distanceTrue : 0.000313209
+-----------------------------------------
+Query : curve41
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve2048
+distanceFound : NotFound
+distanceTrue : 0.00027
+-----------------------------------------
+Query : curve44
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve3426
+distanceFound : NotFound
+distanceTrue : 0.00234339
+-----------------------------------------
+Query : curve45
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : curve1208
+True Nearest neighbor : curve3426
+distanceFound : 0.00012
+distanceTrue : 6e-05
+-----------------------------------------
+Query : curve46
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : curve3566
+True Nearest neighbor : curve956
+distanceFound : 0.0163148
+distanceTrue : 0.0138752
+-----------------------------------------
+Query : curve47
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : curve2919
+True Nearest neighbor : curve2940
+distanceFound : 0.00423794
+distanceTrue : 0.00339837
+-----------------------------------------
+Query : curve50
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve3451
+distanceFound : NotFound
+distanceTrue : 0.0571113
+-----------------------------------------
+Query : curve65
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : curve2379
+True Nearest neighbor : curve1789
+distanceFound : 0.0104056
+distanceTrue : 0.00450018
+-----------------------------------------
+Query : curve71
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve3537
+distanceFound : NotFound
+distanceTrue : 0.0734832
+-----------------------------------------
+Query : curve73
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve4123
+distanceFound : NotFound
+distanceTrue : 0.0350284
+-----------------------------------------
+Query : curve75
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve7029
+distanceFound : NotFound
+distanceTrue : 0.0209579
+-----------------------------------------
+Query : curve78
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve3697
+distanceFound : NotFound
+distanceTrue : 4e-05
+-----------------------------------------
+Query : curve81
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve3697
+distanceFound : NotFound
+distanceTrue : 2e-05
+-----------------------------------------
+Query : curve82
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve7253
+distanceFound : NotFound
+distanceTrue : 0.120586
+-----------------------------------------
+Query : curve85
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve5082
+distanceFound : NotFound
+distanceTrue : 0.0387727
+-----------------------------------------
+Query : curve90
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : curve3697
+True Nearest neighbor : curve3508
+distanceFound : 0.160388
+distanceTrue : 0.0542349
+-----------------------------------------
+Query : curve100
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve4983
+distanceFound : NotFound
+distanceTrue : 0.0390618
+-----------------------------------------
+Query : curve115
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : curve876
+True Nearest neighbor : curve6844
+distanceFound : 0.000107703
+distanceTrue : 5e-05
+-----------------------------------------
+Query : curve121
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve2671
+distanceFound : NotFound
+distanceTrue : 0.0143994
+-----------------------------------------
+Query : curve126
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve2632
+distanceFound : NotFound
+distanceTrue : 0.0163798
+-----------------------------------------
+Query : curve127
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : curve1764
+True Nearest neighbor : curve4833
+distanceFound : 0.0346334
+distanceTrue : 0.0185814
+-----------------------------------------
+Query : curve131
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve2645
+distanceFound : NotFound
+distanceTrue : 0.0307934
+-----------------------------------------
+Query : curve134
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve2652
+distanceFound : NotFound
+distanceTrue : 0.022832
+-----------------------------------------
+Query : curve135
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve2632
+distanceFound : NotFound
+distanceTrue : 0.0153726
+-----------------------------------------
+Query : curve136
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve2396
+distanceFound : NotFound
+distanceTrue : 0.0457337
+-----------------------------------------
+Query : curve139
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : curve2671
+True Nearest neighbor : curve2656
+distanceFound : 0.000197231
+distanceTrue : 8e-05
+-----------------------------------------
+Query : curve153
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve2632
+distanceFound : NotFound
+distanceTrue : 0.0113594
+-----------------------------------------
+Query : curve155
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve2638
+distanceFound : NotFound
+distanceTrue : 0.000131803
+-----------------------------------------
+Query : curve157
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : curve2400
+True Nearest neighbor : curve2656
+distanceFound : 0.128822
+distanceTrue : 0.00191791
+-----------------------------------------
+Query : curve161
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve2671
+distanceFound : NotFound
+distanceTrue : 0.0211297
+-----------------------------------------
+Query : curve163
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve4737
+distanceFound : NotFound
+distanceTrue : 0.0063459
+-----------------------------------------
+Query : curve170
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve2632
+distanceFound : NotFound
+distanceTrue : 0.00427817
+-----------------------------------------
+Query : curve171
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : curve2604
+True Nearest neighbor : curve4833
+distanceFound : 0.051398
+distanceTrue : 0.0269996
+-----------------------------------------
+Query : curve174
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve4833
+distanceFound : NotFound
+distanceTrue : 0.0576433
+-----------------------------------------
+Query : curve176
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve2638
+distanceFound : NotFound
+distanceTrue : 0.000111803
+-----------------------------------------
+Query : curve179
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : curve2638
+True Nearest neighbor : curve2632
+distanceFound : 5e-05
+distanceTrue : 4e-05
+-----------------------------------------
+Query : curve182
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve4833
+distanceFound : NotFound
+distanceTrue : 0.0332179
+-----------------------------------------
+Query : curve186
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : curve1436
+True Nearest neighbor : curve6653
+distanceFound : 0.00496488
+distanceTrue : 0.00134495
+-----------------------------------------
+Query : curve189
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve6256
+distanceFound : NotFound
+distanceTrue : 0.0011748
+-----------------------------------------
+Query : curve192
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : curve1436
+True Nearest neighbor : curve6653
+distanceFound : 0.00542535
+distanceTrue : 0.00183469
+-----------------------------------------
+Query : curve197
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : curve1436
+True Nearest neighbor : curve6663
+distanceFound : 0.000364005
+distanceTrue : 0.000180278
+-----------------------------------------
+Query : curve200
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : curve1512
+True Nearest neighbor : curve4744
+distanceFound : 0.00286506
+distanceTrue : 7e-05
+-----------------------------------------
+Query : curve202
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : curve1512
+True Nearest neighbor : curve4711
+distanceFound : 0.000327703
+distanceTrue : 0.000111803
+-----------------------------------------
+Query : curve203
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : curve1512
+True Nearest neighbor : curve4711
+distanceFound : 0.000327703
+distanceTrue : 0.000111803
+-----------------------------------------
+Query : curve206
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : curve1170
+True Nearest neighbor : curve4741
+distanceFound : 0.00683465
+distanceTrue : 0.000438634
+-----------------------------------------
+Query : curve207
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : curve1749
+True Nearest neighbor : curve4732
+distanceFound : 0.00346365
+distanceTrue : 3e-05
+-----------------------------------------
+Query : curve211
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve3525
+distanceFound : NotFound
+distanceTrue : 0.0724753
+-----------------------------------------
+Query : curve219
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve6579
+distanceFound : NotFound
+distanceTrue : 0.0192676
+-----------------------------------------
+Query : curve220
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve385
+distanceFound : NotFound
+distanceTrue : 0.00181868
+-----------------------------------------
+Query : curve222
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve3525
+distanceFound : NotFound
+distanceTrue : 0.0523037
+-----------------------------------------
+Query : curve227
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : curve1868
+True Nearest neighbor : curve3511
+distanceFound : 0.0350613
+distanceTrue : 0.000640312
+-----------------------------------------
+Query : curve230
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : curve310
+True Nearest neighbor : curve6579
+distanceFound : 0.0109179
+distanceTrue : 0.0108503
+-----------------------------------------
+Query : curve235
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : curve385
+True Nearest neighbor : curve6579
+distanceFound : 0.00362138
+distanceTrue : 0.00161186
+-----------------------------------------
+Query : curve244
+Method : Projection
+HashFunction : LSH
+Found Nearest neighbor : NotFound
+True Nearest neighbor : curve320
+distanceFound : NotFound
+distanceTrue : 0.000551741
+-----------------------------------------
+Average time : 0.000165 seconds per query
+Brute force average time : 0.00255684 seconds per query
+MaxAf : 115.455
